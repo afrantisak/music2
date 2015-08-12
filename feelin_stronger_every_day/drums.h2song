@@ -41,7 +41,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//dr55rim.wav</filename>
+    <filename>////dr55rim.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -84,7 +84,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////misc_Cowbell.flac</filename>
+    <filename>///////misc_Cowbell.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -127,7 +127,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////cra_Rock_a.flac</filename>
+    <filename>///////cra_Rock_a.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -170,7 +170,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////cym_Rock_b.flac</filename>
+    <filename>///////cym_Rock_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -213,7 +213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////tom_Rock_hi.flac</filename>
+    <filename>///////tom_Rock_hi.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -256,7 +256,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////tom_Rock_mid.flac</filename>
+    <filename>///////tom_Rock_mid.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -299,7 +299,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///sn_Wet_b.flac</filename>
+    <filename>/////sn_Wet_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -342,7 +342,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////tom_Rock_lo.flac</filename>
+    <filename>///////tom_Rock_lo.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -385,7 +385,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/////kick_Dry_b.flac</filename>
+    <filename>///////kick_Dry_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -490,7 +490,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.52</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -533,7 +533,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.48</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -576,7 +576,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.52</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -589,14 +589,14 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 2</name>
+   <name>m2</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.86</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -608,7 +608,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.645</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -620,7 +620,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.625</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -632,7 +632,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -656,7 +656,7 @@
     <note>
      <position>60</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.62</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -668,7 +668,7 @@
     <note>
      <position>72</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.72</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -680,7 +680,7 @@
     <note>
      <position>84</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.77</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -692,7 +692,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.85</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -704,7 +704,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.85</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -716,7 +716,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.69</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -740,7 +740,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.91</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -764,7 +764,7 @@
     <note>
      <position>156</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.78</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -776,7 +776,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.68</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -788,7 +788,7 @@
     <note>
      <position>180</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.645</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -800,14 +800,14 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 4</name>
+   <name>m4</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.84</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -819,7 +819,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.795</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -831,7 +831,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.69</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -843,7 +843,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -867,7 +867,7 @@
     <note>
      <position>60</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.905</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -879,7 +879,7 @@
     <note>
      <position>72</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.785</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -891,7 +891,7 @@
     <note>
      <position>84</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.7</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -903,7 +903,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -915,7 +915,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.93</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -927,7 +927,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.785</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -939,7 +939,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.635</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -951,7 +951,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.945</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -999,7 +999,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 6</name>
+   <name>m6</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1198,14 +1198,14 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 8</name>
+   <name>m8</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.965</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1217,7 +1217,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.72</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1229,7 +1229,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.72</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1241,7 +1241,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.9</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1265,7 +1265,7 @@
     <note>
      <position>60</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.7</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1277,7 +1277,7 @@
     <note>
      <position>72</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.66</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1289,7 +1289,7 @@
     <note>
      <position>84</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.745</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1301,7 +1301,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.89</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1313,7 +1313,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.86</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1337,7 +1337,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.54</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1349,7 +1349,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.64</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1361,7 +1361,7 @@
     <note>
      <position>132</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.57</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1385,7 +1385,7 @@
     <note>
      <position>156</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1397,7 +1397,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.91</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1409,7 +1409,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.75</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1419,9 +1419,9 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>180</position>
+     <position>176</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1433,19 +1433,7 @@
     <note>
      <position>184</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>5</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>188</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.81</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1457,7 +1445,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 9</name>
+   <name>m9</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1488,7 +1476,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 10</name>
+   <name>m10</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1627,14 +1615,14 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Measure 11</name>
+   <name>m11</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.88</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1646,7 +1634,7 @@
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.98</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1658,7 +1646,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.72</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1670,7 +1658,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.745</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1694,7 +1682,7 @@
     <note>
      <position>72</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.71</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1706,7 +1694,7 @@
     <note>
      <position>84</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.88</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1718,7 +1706,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.745</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1730,7 +1718,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.86</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1742,7 +1730,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.605</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1754,7 +1742,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1766,7 +1754,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.83</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1790,7 +1778,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.63</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1802,7 +1790,7 @@
     <note>
      <position>180</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.89</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1869,7 +1857,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.89</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1892,7 +1880,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.36</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -1905,7 +1893,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.725</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1917,7 +1905,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.7</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1929,7 +1917,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.67</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1941,7 +1929,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.895</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1965,7 +1953,7 @@
     <note>
      <position>156</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.73</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1977,7 +1965,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.76</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1989,7 +1977,7 @@
     <note>
      <position>180</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.58</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2079,7 +2067,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.5</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -2092,7 +2080,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.9</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2104,7 +2092,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.69</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2128,7 +2116,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.89</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2152,7 +2140,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.78</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2170,8 +2158,8 @@
    <noteList>
     <note>
      <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.08</leadlag>
+     <velocity>0.875</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2182,8 +2170,8 @@
     </note>
     <note>
      <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.04</leadlag>
+     <velocity>0.86</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2195,7 +2183,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.68</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2207,7 +2195,7 @@
     <note>
      <position>24</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.62</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2219,7 +2207,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.78</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2230,7 +2218,7 @@
     </note>
     <note>
      <position>48</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.12</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -2243,7 +2231,7 @@
     <note>
      <position>72</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.56</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2255,7 +2243,7 @@
     <note>
      <position>84</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>1</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2266,8 +2254,8 @@
     </note>
     <note>
      <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.08</leadlag>
+     <velocity>0.93</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2278,8 +2266,8 @@
     </note>
     <note>
      <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.08</leadlag>
+     <velocity>0.695</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2291,7 +2279,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.95</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2303,7 +2291,7 @@
     <note>
      <position>120</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.645</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2315,7 +2303,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.815</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2326,8 +2314,8 @@
     </note>
     <note>
      <position>144</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.14</leadlag>
+     <velocity>0.69</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2339,7 +2327,7 @@
     <note>
      <position>156</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.905</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2351,7 +2339,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.475</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2363,7 +2351,7 @@
     <note>
      <position>180</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.63</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2465,7 +2453,7 @@
     </note>
     <note>
      <position>72</position>
-     <leadlag>0</leadlag>
+     <leadlag>0.48</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -2478,7 +2466,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.6</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -2578,40 +2566,40 @@
    <patternID>2/4 Ride Ride Crash</patternID>
   </group>
   <group>
-   <patternID>Measure 2</patternID>
+   <patternID>m2</patternID>
   </group>
   <group>
    <patternID>2/4 Kick</patternID>
    <patternID>2/4 Bell Ride Crash</patternID>
   </group>
   <group>
-   <patternID>Measure 4</patternID>
+   <patternID>m4</patternID>
   </group>
   <group>
    <patternID>2/4 Kick</patternID>
    <patternID>2/4 Bell Ride Crash</patternID>
   </group>
   <group>
-   <patternID>Measure 6</patternID>
+   <patternID>m6</patternID>
   </group>
   <group>
    <patternID>2/4 Kick</patternID>
    <patternID>2/4 Bell Ride Crash</patternID>
   </group>
   <group>
-   <patternID>Measure 8</patternID>
+   <patternID>m8</patternID>
   </group>
   <group>
-   <patternID>Measure 9</patternID>
+   <patternID>m9</patternID>
   </group>
   <group>
-   <patternID>Measure 10</patternID>
+   <patternID>m10</patternID>
   </group>
   <group>
-   <patternID>Measure 11</patternID>
+   <patternID>m11</patternID>
   </group>
   <group>
-   <patternID>Measure 11</patternID>
+   <patternID>m11</patternID>
   </group>
   <group>
    <patternID>m13</patternID>
