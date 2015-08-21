@@ -41,7 +41,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////HH_1_closed_a.wav</filename>
+    <filename>///////HH_1_closed_a.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -84,7 +84,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////HH_1_closed_b.wav</filename>
+    <filename>///////HH_1_closed_b.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -127,136 +127,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////HH_1_open.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>20</id>
-   <name>HH 2 closed a</name>
-   <drumkit>UltraAcousticStaff</drumkit>
-   <volume>0.87</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//////HH_2_closed_a.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>21</id>
-   <name>HH 2 closed b</name>
-   <drumkit>UltraAcousticStaff</drumkit>
-   <volume>0.81</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//////HH_2_closed_b.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>22</id>
-   <name>HH 2 open</name>
-   <drumkit>UltraAcousticStaff</drumkit>
-   <volume>0.81</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//////HH_2_open.wav</filename>
+    <filename>///////HH_1_open.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -299,7 +170,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Ride_Cup.wav</filename>
+    <filename>///////Ride_Cup.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -342,7 +213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Ride_Side.wav</filename>
+    <filename>///////Ride_Side.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -385,7 +256,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Crash_1.wav</filename>
+    <filename>///////Crash_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -428,7 +299,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Crash_2.wav</filename>
+    <filename>///////Crash_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -471,50 +342,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Crash_3.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>28</id>
-   <name>CowBell</name>
-   <drumkit>UltraAcousticStaff</drumkit>
-   <volume>1</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//////CowBell.wav</filename>
+    <filename>///////Crash_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -557,7 +385,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tamb_1.wav</filename>
+    <filename>///////Tamb_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -600,7 +428,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tamb_2.wav</filename>
+    <filename>///////Tamb_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -643,7 +471,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tamb_3.wav</filename>
+    <filename>///////Tamb_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -686,7 +514,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Hi.wav</filename>
+    <filename>///////Tom_Hi.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -729,7 +557,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Hi_flam.wav</filename>
+    <filename>///////Tom_Hi_flam.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -772,7 +600,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Mid.wav</filename>
+    <filename>///////Tom_Mid.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -815,7 +643,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Mid_flam.wav</filename>
+    <filename>///////Tom_Mid_flam.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -858,7 +686,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Reg_1a.wav</filename>
+    <filename>///////Snare_Reg_1a.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -901,7 +729,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Reg_1b.wav</filename>
+    <filename>///////Snare_Reg_1b.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -944,7 +772,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Reg_1c.wav</filename>
+    <filename>///////Snare_Reg_1c.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -987,7 +815,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Reg_1flam.wav</filename>
+    <filename>///////Snare_Reg_1flam.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1030,7 +858,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Reg_1ghost.wav</filename>
+    <filename>///////Snare_Reg_1ghost.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1073,7 +901,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Rock.wav</filename>
+    <filename>///////Snare_Rock.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1116,7 +944,179 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Snare_Rock_ghost.wav</filename>
+    <filename>///////Snare_Rock_ghost.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>32</id>
+   <name>Conga1 Hi</name>
+   <drumkit>ErnysPercussion</drumkit>
+   <volume>0.84</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/1Conga Hi.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>33</id>
+   <name>Conga1 Mute</name>
+   <drumkit>ErnysPercussion</drumkit>
+   <volume>0.85</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/1Conga Hi Mute.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>34</id>
+   <name>Conga1 Lo</name>
+   <drumkit>ErnysPercussion</drumkit>
+   <volume>0.85</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/1Conga Lo.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>35</id>
+   <name>Conga2 Slap</name>
+   <drumkit>ErnysPercussion</drumkit>
+   <volume>0.85</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>/2Conga Slap.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1159,7 +1159,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Stick.wav</filename>
+    <filename>///////Stick.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1202,7 +1202,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Low.wav</filename>
+    <filename>///////Tom_Low.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1245,7 +1245,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Tom_Low_flam.wav</filename>
+    <filename>///////Tom_Low_flam.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1288,7 +1288,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Kick_Reg_1a.wav</filename>
+    <filename>///////Kick_Reg_1a.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1331,7 +1331,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Kick_Reg_1b.wav</filename>
+    <filename>///////Kick_Reg_1b.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1374,7 +1374,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//////Kick_Rock.wav</filename>
+    <filename>///////Kick_Rock.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1425,7 +1425,7 @@
     <note>
      <position>48</position>
      <leadlag>0.38</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.92</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1461,7 +1461,7 @@
     <note>
      <position>144</position>
      <leadlag>0.4</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.89</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -1638,10 +1638,119 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Pattern 5</name>
+   <name>Conga</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0.36</leadlag>
+     <velocity>0.77</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>36</position>
+     <leadlag>0.24</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>34</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0.34</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>35</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0.28</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>A0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>108</position>
+     <leadlag>0.56</leadlag>
+     <velocity>0.755</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>132</position>
+     <leadlag>0.28</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>34</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0.32</leadlag>
+     <velocity>0.765</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.33</pan_R>
+     <pitch>0</pitch>
+     <key>A0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>156</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.28</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>A0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0.4</leadlag>
+     <velocity>0.78</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>32</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 6</name>
@@ -1682,27 +1791,34 @@
   </group>
   <group>
    <patternID>Pattern 1</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
    <patternID>Pattern 2</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
    <patternID>Pattern 4</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
+   <patternID>Conga</patternID>
   </group>
   <group>
    <patternID>Pattern 1</patternID>
    <patternID>Pattern 2</patternID>
+   <patternID>Conga</patternID>
   </group>
  </patternSequence>
  <ladspa>
